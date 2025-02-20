@@ -1,0 +1,7 @@
+v18.19.1
+
+Versión node
+
+
+
+node src/main.js
